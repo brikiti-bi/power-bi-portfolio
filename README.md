@@ -1,3 +1,9 @@
+## 📋 Project Overview
+An executive-level Power BI dashboard showcasing sales performance, profitability, return rates, and weekly revenue trends across product brands and store locations.  
+The dashboard consolidates key metrics and enables interactive analysis by geography, brand, and time using dynamic filters and drill-down visuals.
+
+
+
 # Power BI Portfolio – Brikiti Gebremedhine
 
 ## Maven Market Performance Dashboard
